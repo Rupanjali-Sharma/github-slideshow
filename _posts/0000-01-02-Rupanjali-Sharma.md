@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+A developer and a tester can never be a friend!
 Use the left arrow to go back!
